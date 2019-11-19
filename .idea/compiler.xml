@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wlkg-api-gateway" />
+        <module name="wlkg-auth-common" />
+        <module name="wlkg-auth-service" />
+        <module name="wlkg-common" />
+        <module name="wlkg-goods-page" />
+        <module name="wlkg-item-interface" />
+        <module name="wlkg-item-service" />
+        <module name="wlkg-register" />
+        <module name="wlkg-search" />
+        <module name="wlkg-sms" />
+        <module name="wlkg-upload" />
+        <module name="wlkg-user-interface" />
+        <module name="wlkg-user-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wlgk-common" target="1.8" />
+      <module name="wlkg-login" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

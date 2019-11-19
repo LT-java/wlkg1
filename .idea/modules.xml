@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" filepath="$PROJECT_DIR$/../wlkg-manage-web/wlkg-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wlkg-portal/wlkg-portal.iml" filepath="$PROJECT_DIR$/../wlkg-portal/wlkg-portal.iml" />
+    </modules>
+  </component>
+</project>
